@@ -25,13 +25,6 @@ Technologies Used
 - HTML5
 - CSS3
 
-Project Structure
-
-src/
-│── App.js
-│── App.css
-│── index.js
-
 How to Run the Project
 
 1. Clone the repository.
