@@ -1,0 +1,21 @@
+body{
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+button{
+    width: 100px;
+    border-radius: 10px;
+    background-color: brown;
+    cursor: pointer;
+}
+button:hover{
+    background-color: red;
+}
